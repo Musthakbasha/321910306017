@@ -1,0 +1,46 @@
+#tonv
+c=float(input("enter the temperature value in celsius:"))
+f=(1.8*c)+32
+print("temperature in farenheit:",f)
+......
+#area of the triangle
+b=floafl value:"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#simple interest
+p=int(input("enter the value of p:"))
+t=int(input("enter the value of t:"))
+r=int(input("enter the value of r:"))
+si=((p*t*r)/100)
+print("simple interest:",si)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
